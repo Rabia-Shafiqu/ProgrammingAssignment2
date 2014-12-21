@@ -38,5 +38,9 @@ cacheSolve <- function(x, ...)
     x$setinv(i) # Setting inverse
     i  # returning inverse of matrix
 }
-
+### Please give input in following way while running this programme.
+## mat<-matrix(data= c(2,3,4,1,8,9,2,1,6), nrow=3, ncol=3)
+# mat2<-makeCacheMatrix(mat)
+# cacheSolve(mat2)
+# casheSolve #for retrieving cached matrix
 
