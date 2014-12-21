@@ -42,5 +42,5 @@ cacheSolve <- function(x, ...)
 ## mat<-matrix(data= c(2,3,4,1,8,9,2,1,6), nrow=3, ncol=3)
 # mat2<-makeCacheMatrix(mat)
 # cacheSolve(mat2)
-# casheSolve #for retrieving cached matrix
+# cacheSolve(mat2) #for retrieving cached matrix
 
